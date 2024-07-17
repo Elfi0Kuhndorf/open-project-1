@@ -21,26 +21,32 @@ MonoBehaviour:
     m_Address: Assets/Prefabs/Characters
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 04dfc5c290665e0419064c04b4d562b4
     m_Address: Assets/Prefabs/Audio
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6a7dffa2320169441a1eae8e15a3850e
     m_Address: Assets/Prefabs/Effects
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2942942cb5adb434fa36ce2af875895f
     m_Address: Assets/Prefabs/Gameplay
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: db2af0e873d89ef4b8e56268a67d0980
     m_Address: Assets/Prefabs/Managers
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e45a4b995c45a42b2bd9e9309e5a8f3e
     m_Address: Assets/Prefabs/UI
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:
